@@ -1,6 +1,6 @@
 # OPEN SOURCE SOFTWARE AUDIT REPORT
 
-**Student Name:** Animesh Agrawal 
+**Student Name:** Animesh Tiwari
 **Registration Number:** 24bcy10151 
 **Course:** Open Source Software (NGMC)  
 **Chosen Software:** Firefox  
