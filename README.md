@@ -4,7 +4,7 @@
 
 | Field | Value |
 |-------|-------|
-| Name | Animesh Agrawal|
+| Name | Animesh Tiwari|
 | Registration Number | 24BCY10151 |
 | Course | Open Source Software (NGMC) |
 | Date | March 28, 2026 |
